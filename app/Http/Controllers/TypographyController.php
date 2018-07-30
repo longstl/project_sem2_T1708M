@@ -23,6 +23,6 @@ class TypographyController extends Controller
      */
     public function index()
     {
-        return view('layouts.typography.index');
+        return view('dashboard.index');
     }
 }

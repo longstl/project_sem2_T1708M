@@ -23,6 +23,6 @@ class HelperController extends Controller
      */
     public function index()
     {
-        return view('layouts.helper.index');
+        return view('dashboard.index');
     }
 }

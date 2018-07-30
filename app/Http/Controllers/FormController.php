@@ -23,6 +23,6 @@ class FormController extends Controller
      */
     public function index()
     {
-        return view('layouts.form.index');
+        return view('dashboard.index');
     }
 }

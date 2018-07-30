@@ -23,6 +23,6 @@ class WidgetController extends Controller
      */
     public function index()
     {
-        return view('layouts.widget.index');
+        return view('dashboard.index');
     }
 }

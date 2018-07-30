@@ -23,6 +23,6 @@ class TableController extends Controller
      */
     public function index()
     {
-        return view('layouts.table.index');
+        return view('dashboard.index');
     }
 }

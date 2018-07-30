@@ -23,6 +23,6 @@ class ChartController extends Controller
      */
     public function index()
     {
-        return view('layouts.chart.index');
+        return view('dashboard.index');
     }
 }

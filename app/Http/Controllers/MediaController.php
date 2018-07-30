@@ -23,6 +23,6 @@ class MediaController extends Controller
      */
     public function index()
     {
-        return view('layouts.media.index');
+        return view('dashboard.index');
     }
 }
