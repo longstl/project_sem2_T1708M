@@ -4,13 +4,14 @@
 @endsection
 @section('slide-show')
     @include('partials.slideshow')
-    @endsection
+@endsection
 @section('content')
     <div class="row" style="margin-top: 10px;">
         <div class="col-sm-6 col-md-4">
-            <div class="img-thumbnail img-fluid text-center card-img">
-                <img src="https://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg" alt="Generic placeholder thumbnail"
-                style="max-width: 340px; max-height: 340px;" class="rounded">
+            <div class="card rounded text-center img-thumbnail img-fluid" style="width: 34rem; height: 29.5rem;">
+                <div class="card-img"
+                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 340px; height: 340px; background-size: cover">
+                </div>
                 <div class="caption">
                     <h3>Product Title</h3>
                     <p class="description" style="color: #7f7f7f;">Some sample text. Some sample text.</p>
@@ -22,9 +23,10 @@
             </div>
         </div>
         <div class="col-sm-6 col-md-4">
-            <div class="img-thumbnail img-fluid text-center card-img">
-                <img src="https://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg" alt="Generic placeholder thumbnail"
-                     style="max-width: 340px; max-height: 340px;" class="rounded">
+            <div class="card rounded text-center img-thumbnail img-fluid" style="width: 34rem; height: 29.5rem;">
+                <div class="card-img"
+                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 340px; height: 340px; background-size: cover">
+                </div>
                 <div class="caption">
                     <h3>Product Title</h3>
                     <p class="description" style="color: #7f7f7f;">Some sample text. Some sample text.</p>
@@ -36,9 +38,10 @@
             </div>
         </div>
         <div class="col-sm-6 col-md-4">
-            <div class="img-thumbnail img-fluid text-center card-img">
-                <img src="https://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg" alt="Generic placeholder thumbnail"
-                     style="max-width: 340px; max-height: 340px;" class="rounded">
+            <div class="card rounded text-center img-thumbnail img-fluid" style="width: 34rem; height: 29.5rem;">
+                <div class="card-img"
+                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 340px; height: 340px; background-size: cover">
+                </div>
                 <div class="caption">
                     <h3>Product Title</h3>
                     <p class="description" style="color: #7f7f7f;">Some sample text. Some sample text.</p>
@@ -52,9 +55,10 @@
     </div>
     <div class="row" style="margin-top: 10px;">
         <div class="col-sm-6 col-md-4">
-            <div class="img-thumbnail img-fluid text-center card-img">
-                <img src="https://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg" alt="Generic placeholder thumbnail"
-                     style="max-width: 340px; max-height: 340px;" class="rounded">
+            <div class="card rounded text-center img-thumbnail img-fluid" style="width: 34rem; height: 29.5rem;">
+                <div class="card-img"
+                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 340px; height: 340px; background-size: cover">
+                </div>
                 <div class="caption">
                     <h3>Product Title</h3>
                     <p class="description" style="color: #7f7f7f;">Some sample text. Some sample text.</p>
@@ -66,9 +70,10 @@
             </div>
         </div>
         <div class="col-sm-6 col-md-4">
-            <div class="img-thumbnail img-fluid text-center card-img">
-                <img src="https://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg" alt="Generic placeholder thumbnail"
-                     style="max-width: 340px; max-height: 340px;" class="rounded">
+            <div class="card rounded text-center img-thumbnail img-fluid" style="width: 34rem; height: 29.5rem;">
+                <div class="card-img"
+                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 340px; height: 340px; background-size: cover">
+                </div>
                 <div class="caption">
                     <h3>Product Title</h3>
                     <p class="description" style="color: #7f7f7f;">Some sample text. Some sample text.</p>
@@ -80,9 +85,10 @@
             </div>
         </div>
         <div class="col-sm-6 col-md-4">
-            <div class="img-thumbnail img-fluid text-center card-img">
-                <img src="https://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg" alt="Generic placeholder thumbnail"
-                     style="max-width: 340px; max-height: 340px;" class="rounded">
+            <div class="card rounded text-center img-thumbnail img-fluid" style="width: 34rem; height: 29.5rem;">
+                <div class="card-img"
+                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 340px; height: 340px; background-size: cover">
+                </div>
                 <div class="caption">
                     <h3>Product Title</h3>
                     <p class="description" style="color: #7f7f7f;">Some sample text. Some sample text.</p>
