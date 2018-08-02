@@ -9,8 +9,8 @@
     <div class="row" style="margin-top: 10px;">
         <div class="col-sm-6 col-md-4">
             <div class="card rounded text-center img-thumbnail img-fluid" style="width: 34rem; height: 29.5rem;">
-                <div class="card-img"
-                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 340px; height: 340px; background-size: cover">
+                <div class="card-img img-fluid"
+                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 100%; height: 340px; background-size: cover">
                 </div>
                 <div class="caption">
                     <h3>Product Title</h3>
@@ -24,8 +24,8 @@
         </div>
         <div class="col-sm-6 col-md-4">
             <div class="card rounded text-center img-thumbnail img-fluid" style="width: 34rem; height: 29.5rem;">
-                <div class="card-img"
-                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 340px; height: 340px; background-size: cover">
+                <div class="card-img img-fluid"
+                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 100%; height: 340px; background-size: cover">
                 </div>
                 <div class="caption">
                     <h3>Product Title</h3>
@@ -39,8 +39,8 @@
         </div>
         <div class="col-sm-6 col-md-4">
             <div class="card rounded text-center img-thumbnail img-fluid" style="width: 34rem; height: 29.5rem;">
-                <div class="card-img"
-                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 340px; height: 340px; background-size: cover">
+                <div class="card-img img-fluid"
+                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 100%; height: 340px; background-size: cover">
                 </div>
                 <div class="caption">
                     <h3>Product Title</h3>
@@ -56,8 +56,8 @@
     <div class="row" style="margin-top: 10px;">
         <div class="col-sm-6 col-md-4">
             <div class="card rounded text-center img-thumbnail img-fluid" style="width: 34rem; height: 29.5rem;">
-                <div class="card-img"
-                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 340px; height: 340px; background-size: cover">
+                <div class="card-img img-fluid"
+                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 100%; height: 340px; background-size: cover">
                 </div>
                 <div class="caption">
                     <h3>Product Title</h3>
@@ -71,8 +71,8 @@
         </div>
         <div class="col-sm-6 col-md-4">
             <div class="card rounded text-center img-thumbnail img-fluid" style="width: 34rem; height: 29.5rem;">
-                <div class="card-img"
-                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 340px; height: 340px; background-size: cover">
+                <div class="card-img img-fluid"
+                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 100%; height: 340px; background-size: cover">
                 </div>
                 <div class="caption">
                     <h3>Product Title</h3>
@@ -86,8 +86,8 @@
         </div>
         <div class="col-sm-6 col-md-4">
             <div class="card rounded text-center img-thumbnail img-fluid" style="width: 34rem; height: 29.5rem;">
-                <div class="card-img"
-                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 340px; height: 340px; background-size: cover">
+                <div class="card-img img-fluid"
+                     style="background-image: url(http://i.pinimg.com/originals/cd/0d/be/cd0dbe515b332922f7d374f24fe41970.jpg); width: 100%; height: 340px; background-size: cover">
                 </div>
                 <div class="caption">
                     <h3>Product Title</h3>

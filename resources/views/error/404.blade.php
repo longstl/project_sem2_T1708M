@@ -12,7 +12,7 @@
 <body>
 <div class="col-12" style="background-color: #F7B118">
     <img class="mx-auto d-block" src="/images/error/test.png">
-    <input type="button" value="Back to Site" class="btn btn-primary mx-auto d-block" id="btnHome" role="button"
+    <input type="button" value="Back to Site" class="btn btn-dark mx-auto d-block" id="btnHome" role="button"
            onClick="document.location.href='http://127.0.0.1:8000'" />
 </div>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
