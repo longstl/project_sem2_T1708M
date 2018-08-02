@@ -59,10 +59,16 @@
             </ul>
         </div>
     </div>
-    <ul class="nav navbar-nav navbar-right">
-        <li><a data-toggle="modal" data-target="#loginModal" href="#" style="color: #9A8D7B"><span class="glyphicon glyphicon-log-in"></span> <i class="fas fa-user-circle"></i></a></li>
-    </ul>
-
+    <nav class="nav navbar-nav navbar-right">
+        <button type="button" class="btn btn-info btn-dark" data-toggle="modal" data-target="#cart_Modal"
+                style="color: #CCCECF"><i
+                    class="fas fa-shopping-cart fa-2x"></i>
+        </button>
+        <button type="button" class="btn btn-info btn-dark" data-toggle="modal" data-target="#login_register_Modal"
+                style="color: #CCCECF"><i
+                    class="fas fa-users fa-2x"></i>
+        </button>
+    </nav>
 </nav>
 <style>
     .navbar-nav li:hover > ul.dropdown-menu {
