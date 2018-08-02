@@ -87,7 +87,7 @@
 
     figure.slider img {
         width: 100%;
-        height: 720px;
+        height: 650px;
     }
 
     figure.slider figure figcaption {

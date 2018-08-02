@@ -59,8 +59,11 @@
             </ul>
         </div>
     </div>
-</nav>
+    <ul class="nav navbar-nav navbar-right">
+        <li><a data-toggle="modal" data-target="#loginModal" href="#" style="color: #9A8D7B"><span class="glyphicon glyphicon-log-in"></span> <i class="fas fa-user-circle"></i></a></li>
+    </ul>
 
+</nav>
 <style>
     .navbar-nav li:hover > ul.dropdown-menu {
         display: block;
@@ -81,4 +84,19 @@
         text-decoration: underline;
         transform: rotate(-90deg);
     }
+
+    /* Mask for background, by default is not display */
+    #mask {
+        display: none;
+        background: #000;
+        position: fixed;
+        left: 0;
+        top: 0;
+        z-index: 10;
+        width: 100%;
+        height: 100%;
+        opacity: 0.8;
+        z-index: 999;
+    }
+
 </style>
