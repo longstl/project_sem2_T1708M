@@ -12,6 +12,8 @@
 <body>
 <div class="col-12" style="background-color: #F7B118">
     <img class="mx-auto d-block" src="/images/error/test.png">
+    <input type="button" value="Back to Site" class="btn btn-primary mx-auto d-block" id="btnHome" role="button"
+           onClick="document.location.href='http://127.0.0.1:8000'" />
 </div>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
@@ -61,8 +63,11 @@
     * {
         box-sizing: border-box;
     }
-
-    img {
-    }
 </style>
+
+<script>
+    var timer = setTimeout(function() {
+        window.location='http://127.0.0.1:8000'
+    }, 3000);
+</script>
 </html>
